@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "music-player",
-    "slug": "music-player",
+    "name": "media-player",
+    "slug": "media-player",
     "version": "1.0.0",
     "orientation": "portrait",
     "sdkVersion": "51.0.0",
     "icon": "./assets/images/icon.png",
-    "scheme": "music-player",
+    "scheme": "media-player",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
